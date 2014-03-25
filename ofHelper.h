@@ -1,8 +1,7 @@
 //
-//  Helper.h
-//  DirTest
+//  ofHelper.h
 //
-//  Created by erik on 3/25/14.
+//  Created by erikccoder on 3/25/14.
 //
 //
 
